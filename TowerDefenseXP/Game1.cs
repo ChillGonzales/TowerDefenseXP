@@ -13,7 +13,7 @@ namespace TowerDefenseXP
     public class Game1 : Game
     {
         GraphicsDeviceManager graphics;
-        SpriteBatch spriteBatch;.
+        SpriteBatch spriteBatch;
         ContentManager contentManager;
         protected List<IUpdate> updateList;
         protected List<IDraw> drawList;

@@ -46,7 +46,11 @@ namespace Game1
                 }
             }
 
-            public void Update(GameTime gameTime)
+            public abstract void DrawFrame();
+
+
+            #region "Implemented Interface Methods"
+            public void Update(GameTime gameTime) //IUpdate
             {
                 timeElapsed += gameTime.ElapsedGameTime.TotalSeconds;
                 if (timeElapsed > timeToUpdate)
@@ -63,18 +67,17 @@ namespace Game1
                 }
             }
 
-            public abstract void DrawFrame();
-
-            public void Draw(GameTime gameTime, SpriteBatch spriteBatch)
+            public void Draw(GameTime gameTime, SpriteBatch spriteBatch) //IDraw
             {
                 DrawFrame();
                 spriteBatch.Draw(sTexture, sPosition, sRectangles[frameIndex], Color.White);
             }
 
-            public void LoadContent(ContentManager content)
+            public void LoadContent(ContentManager content) //ILoadContent
             {
                 sTexture = content.Load<Texture2D>(contentPath);
             }
+            #endregion
         }
     }
 }

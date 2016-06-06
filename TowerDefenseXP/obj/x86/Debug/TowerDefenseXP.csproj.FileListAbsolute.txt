@@ -1,1 +1,10 @@
 C:\Users\Colin\Documents\MonoDev\TowerDefenseAndroid\TowerDefenseXP\TowerDefenseXP\obj\x86\Debug\TowerDefenseXP.csprojResolveAssemblyReference.cache
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\obj\x86\Debug\TowerDefenseXP.csprojResolveAssemblyReference.cache
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\bin\DesktopGL\x86\Debug\TowerDefenseXP.exe
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\bin\DesktopGL\x86\Debug\TowerDefenseXP.pdb
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\obj\x86\Debug\TowerDefenseXP.exe
+C:\Users\colin.monroe\Documents\MonoDev\TowerDefenseXP\TowerDefenseXP\obj\x86\Debug\TowerDefenseXP.pdb

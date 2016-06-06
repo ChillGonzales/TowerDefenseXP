@@ -5,11 +5,12 @@ using System.Text;
 using System.Threading.Tasks;
 using Microsoft.Xna.Framework;
 using Microsoft.Xna.Framework.Graphics;
+using Microsoft.Xna.Framework.Content;
 
 namespace TowerDefenseXP.Interfaces
 {
     public interface ILoadContent
     {
-        void LoadContent(SpriteBatch spriteBatch);
+        void LoadContent(ContentManager content);
     }
 }
