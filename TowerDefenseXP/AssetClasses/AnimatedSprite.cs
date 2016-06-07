@@ -7,7 +7,7 @@ using Microsoft.Xna.Framework.Graphics;
 using Microsoft.Xna.Framework.Content;
 using TowerDefenseXP.Interfaces;
 
-namespace Game1
+namespace TowerDefenseXP
 {
     namespace AssetClasses
     {
