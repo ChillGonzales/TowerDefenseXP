@@ -38,11 +38,12 @@
     <ApplicationIcon>Icon.ico</ApplicationIcon>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="AbstractClasses\GameObject.cs" />
-    <Compile Include="AssetClasses\AnimatedSprite.cs" />
+    <Compile Include="AbstractClasses\A_AnimatedSprite.cs" />
     <Compile Include="AssetClasses\Enemy.cs" />
     <Compile Include="AssetClasses\RedProjectile.cs" />
     <Compile Include="AssetClasses\Tower.cs" />
+    <Compile Include="Managers\EnemyManager.cs" />
+    <Compile Include="Managers\TowerManager.cs" />
     <Compile Include="TowerDefenseXP.cs" />
     <Compile Include="Interfaces\IDraw.cs" />
     <Compile Include="Interfaces\ILoadContent.cs" />

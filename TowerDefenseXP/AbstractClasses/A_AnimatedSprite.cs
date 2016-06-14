@@ -11,7 +11,7 @@ namespace TowerDefenseXP
 {
     namespace AssetClasses
     {
-        public abstract class AnimatedSprite : IDraw, IUpdate, ILoadContent
+        public abstract class A_AnimatedSprite : IDraw, IUpdate, ILoadContent
         {
             protected Texture2D sTexture;
             protected int animCount;
@@ -31,7 +31,7 @@ namespace TowerDefenseXP
                 set { timeToUpdate = (1f / value); }
             }
 
-            public AnimatedSprite(Vector2 position)
+            public A_AnimatedSprite(Vector2 position)
             {
                 sPosition = position;
             }
